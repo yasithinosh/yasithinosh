@@ -45,8 +45,8 @@ I am a final-year Bachelor of Information and Communication Technology (Honours)
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yasithinosh&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasithinosh&layout=compact&theme=dark)
 
 ---
 
@@ -56,3 +56,4 @@ I am a final-year Bachelor of Information and Communication Technology (Honours)
 
 ---
 *"Turning complex problems into elegant, scalable code."*
+
