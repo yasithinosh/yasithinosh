@@ -19,10 +19,10 @@ I am a final-year Bachelor of Information and Communication Technology (Honours)
 ## 🛠️ Tech Stack & Tools
 
 ### 📱 Mobile & Web Development
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ### ♾️ DevOps & Tools
 ![DevOps](https://img.shields.io/badge/devops-%23000000.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
@@ -47,9 +47,12 @@ I am a final-year Bachelor of Information and Communication Technology (Honours)
 ## 📊 My GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasithinosh&theme=dark" alt="Yasith's Streak" width="48%" />
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=yasithinosh&theme=dark" alt="Yasith's Languages" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasithinosh&theme=dark" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=yasithinosh&theme=dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yasithinosh&theme=dark" width="48%" />
 </p>
 
 ---
@@ -60,6 +63,7 @@ I am a final-year Bachelor of Information and Communication Technology (Honours)
 
 ---
 *"Turning complex problems into elegant, scalable code."*
+
 
 
 
