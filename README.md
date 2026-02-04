@@ -1,16 +1,17 @@
 # Hi there, I'm Yasith Inosh 👋
 
-### BICT (Hons) Undergraduate | AI & ML Researcher | Full-Stack App Developer
+### BICT (Hons) Undergraduate | AI & ML Researcher | Full-Stack App Developer | IoT Researcher
 
-I am a final-year Bachelor of Information and Communication Technology (Honours) student. My work bridges the gap between high-performance **Mobile Applications** and **Machine Learning**. I focus on building robust, scalable systems and researching Image Enhancement for Sign Language Recognition.
+I am a final-year Bachelor of Information and Communication Technology (Honours) student. My work bridges the gap between high-performance **Mobile Applications** and **Machine Learning**. I focus on building robust, scalable systems and researching Image Enhancement for Sign Language Recognition.I bridge the gap between hardware and software, specialized in building cross-platform mobile apps, IoT systems, and AI-driven research.
 
 ---
 
 ## 🚀 Professional Focus
-- 🎓 **Academic:** 4th-year BICT (Hons) student focusing on AI/ML research.
-- 📱 **App Development:** Building high-performance mobile apps using **Flutter** and **React Native**.
+- 🎓 **Academic Research:** Enhancing image quality and augmentation for **Sinhala Sign Language (SSL)** recognition.
+- 📱 **Mobile & Web:** Crafting seamless user experiences using **Flutter**, **React Native**, and modern Web technologies.
 - ☁️ **Backend & Cloud:** Expert in **Firebase Integration** for real-time databases and authentication.
 - 🛠️ **DevOps:** Implementing CI/CD workflows and rigorous API testing with **Postman**.
+- ⚙️ **IoT & Hardware:** Developing smart solutions with **Arduino** and integrated sensors.
 - 🎬 **Leadership:** Senior Technical Officer and Head of Social Media for faculty media associations.
 
 ---
@@ -36,6 +37,13 @@ I am a final-year Bachelor of Information and Communication Technology (Honours)
 
 ---
 
+### 🔌 IoT & Embedded Systems
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+---
+
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=dark)
@@ -43,10 +51,8 @@ I am a final-year Bachelor of Information and Communication Technology (Honours)
 ---
 
 ## 📫 Connect with me
-- 💼 [LinkedIn](YOUR_LINKEDIN_URL)
-- 📺 [YouTube - Katha Pituwa](YOUR_YOUTUBE_URL)
-- ✍️ [Novel by Kivindi](YOUR_CHANNEL_LINK)
-- 📧 [Your Email Address]
+- 💼 [LinkedIn](www.linkedin.com/in/yasithinosh)
+- 📧 [yasithinosh1@gmail.com]
 
 ---
 *"Turning complex problems into elegant, scalable code."*
