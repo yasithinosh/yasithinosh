@@ -1,6 +1,6 @@
 # Hi there, I'm Yasith Inosh 👋
 
-### BICT (Hons) Undergraduate | AI & ML Researcher | Full-Stack App Developer | IoT Researcher
+### BICT (Hons) Undergraduate | Full-Stack Developer | AI & ML Researcher |  IoT Researcher 
 
 I am a final-year Bachelor of Information and Communication Technology (Honours) student. My work bridges the gap between high-performance **Mobile Applications** and **Machine Learning**. I focus on building robust, scalable systems and researching Image Enhancement for Sign Language Recognition.I bridge the gap between hardware and software, specialized in building cross-platform mobile apps, IoT systems, and AI-driven research.
 
@@ -67,6 +67,7 @@ I am a final-year Bachelor of Information and Communication Technology (Honours)
 
 ---
 *"Turning complex problems into elegant, scalable code."*
+
 
 
 
